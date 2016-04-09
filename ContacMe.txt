@@ -1,0 +1,14 @@
+Proyecto de Clase ContactMe
+Desarrollo de Aplicaciones Web 
+Grupo 351
+
+Pagina de Inicio (login.html)
+Donde solo se introduce el usuario y el password, es solo HTML
+es por donde se empezara en forma grupal, es sencillo pero es el primer 
+paso para el avance de nuestro proyecto
+
+Pondre las siguientes vistas conforme vayamos avanzando.
+
+tambien anexe la imagen del logo, los links estan direccionando a otras vistas 
+que ya tengo listas pero las iremos subiendo conforme la opinion del equipo
+si desan usar el codigo o ingresar otras vistas solo ponganles el mismo nombre del link
